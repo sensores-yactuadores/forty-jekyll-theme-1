@@ -1,6 +1,7 @@
-# Forty - Jekyll Theme
+# Forty - Nicolas Sanchez :)
+<h1>sensores y actuadores 3cm<h1>
 
-A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
+A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).<p
 
 ![Forty Theme](assets/images/forty.jpg "Forty Theme")
 
